@@ -1,4 +1,4 @@
 This model detects food in real time with the help of COCO, CV2, pytorch and detectron2(cfg).
 It uses classes in COCO to assess (data and modified in the code according to the usecase) and detectron2, pytorch for implementation by building an RCNN model.
 
-For more information or help, ping me at choudharynipun69@g.mail.com
+For more information or help, ping me at choudharynipun69@g.mail.com.
